@@ -29,7 +29,7 @@ Your webpage will have to implement the features listed below. Note that the exa
 9. Responsiveness: Your webpage should look good when resized.
 10. Background Image: A section which uses a fixed-position background image - [Example](https://raw.githubusercontent.com/uiuc-web-programming/fa17/master/labs/MP-1/9.gif?raw=true)
 11. Modal: A section which uses modal windows with additional content - [Example](https://raw.githubusercontent.com/uiuc-web-programming/fa17/master/labs/MP-1/10.gif?raw=true)
-12. Video: Embedded video using HTML5 video tag - [Example](https://raw.githubusercontent.com/uiuc-web-programming/fa17/master/labs/MP-1/12.gif?raw=true)
+12. Video: Embedded video using HTML5 video tag - [Example](https://raw.githubusercontent.com/uiuc-web-programming/fa17/master/labs/MP-1/11_2.gif?raw=true)
 13. CSS3 Animations: At least one use of CSS3 animations (e.g. fade in/out, transitions)
 14. At least one use of scalable vector icons through CSS (e.g. FontAwesome)
 15. Inclusion of social media icons
