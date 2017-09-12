@@ -24,12 +24,12 @@ Your webpage will have to implement the features listed below. Note that the exa
 4. Navbar Resizing: Navigation bar must be larger when users are at the top of the page. As users start scrolling down, it should resize and become smaller. Note that the text fontsize should also start larger and become smaller as users scroll down - [Example](https://raw.githubusercontent.com/uiuc-web-programming/fa17/master/labs/MP-1/4.gif?raw=true)
 5. Smooth Scrolling: Smooth scrolling when navigating to a different section using the navigation bar - [Example](https://raw.githubusercontent.com/uiuc-web-programming/fa17/master/labs/MP-1/5.gif?raw=true)
 6. Carousel: A section with a carousel/slider using a minimum of three slides. It should include the navigation arrows on the side - [Example](https://raw.githubusercontent.com/uiuc-web-programming/fa17/master/labs/MP-1/6.gif?raw=true)
-7. Multi-column layout: A section with Multi-column content - [Example](https://raw.githubusercontent.com/uiuc-web-programming/fa17/master/labs/MP-1/7.gif?raw=true)
+7. Multi-column layout: A section with Multi-column content - [Example](https://raw.githubusercontent.com/uiuc-web-programming/fa17/master/labs/MP-1/8.png?raw=true)
 8. Centering: Content in each horizontal stripe/section must be horizontally centered. At least one element on the page must be vertically centered. The vertically-centered element should remain centered even if the dimensions of its outer element changes.
 9. Responsiveness: Your webpage should look good when resized.
-10. Background Image: A section which uses a fixed-position background image - [Example](https://raw.githubusercontent.com/uiuc-web-programming/fa17/master/labs/MP-1/10.gif?raw=true)
-11. Modal: A section which uses modal windows with additional content - [Example](https://raw.githubusercontent.com/uiuc-web-programming/fa17/master/labs/MP-1/11.gif?raw=true)
-12. Video: Embedded video using HTML5 video tag - [Example](https://raw.githubusercontent.com/uiuc-web-programming/fa17/master/labs/MP-1/12.gif?raw=true)
+10. Background Image: A section which uses a fixed-position background image - [Example](https://raw.githubusercontent.com/uiuc-web-programming/fa17/master/labs/MP-1/9.gif?raw=true)
+11. Modal: A section which uses modal windows with additional content - [Example](https://raw.githubusercontent.com/uiuc-web-programming/fa17/master/labs/MP-1/10.gif?raw=true)
+12. Video: Embedded video using HTML5 video tag - [Example](https://raw.githubusercontent.com/uiuc-web-programming/fa17/master/labs/MP-1/11_2.gif?raw=true)
 13. CSS3 Animations: At least one use of CSS3 animations (e.g. fade in/out, transitions)
 14. At least one use of scalable vector icons through CSS (e.g. FontAwesome)
 15. Inclusion of social media icons
