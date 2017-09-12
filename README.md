@@ -36,21 +36,21 @@ Your webpage will have to implement the features listed below. Note that the exa
 
 ## Grading Breakdown
 
-Layout and Overall Design - 20%
-Code (follows HTML5, SASS/SCSS, ES6 best practices) - 13%
-Smooth Scrolling - 10%
-Carousel - 10%
-Modal - 10%
-Responsiveness - 10%
-Position Indicator - 5%
-Navbar Resizing - 5%
-Multi-column layout - 5%
-CSS3 Animations - 5%
-Centering - 2%
-Video - 2%
-Sticky Navbar - 1%
-Background Image - 1%
-Scalable vector icons and inclusion of social media icons - 1%
+- Layout and Overall Design - 20%
+- Code (follows HTML5, SASS/SCSS, ES6 best practices) - 13%
+- Smooth Scrolling - 10%
+- Carousel - 10%
+- Modal - 10%
+- Responsiveness - 10%
+- Position Indicator - 5%
+- Navbar Resizing - 5%
+- Multi-column layout - 5%
+- CSS3 Animations - 5%
+- Centering - 2%
+- Video - 2%
+- Sticky Navbar - 1%
+- Background Image - 1%
+- Scalable vector icons and inclusion of social media icons - 1%
 
 ## Rules
 1. This is an individual assignment. No collaboration is permitted.
