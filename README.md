@@ -1,4 +1,4 @@
-# MP #1:
+# MP #1: One Web Page To Rule Them All
 ### Due: Sept 25, 11.59PM CDT
 
 ## Table of Contents
