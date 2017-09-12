@@ -1,5 +1,5 @@
 # MP #1:
-### Due:
+### Due: Sept 25, 11.59PM CDT
 
 ## Table of Contents
 1. [Assignment](#assignment)
@@ -71,3 +71,5 @@ Scalable vector icons and inclusion of social media icons - 1%
 4. Open a browser and go to `http://localhost:8080/` to view your page. You should see "Welcome to MP1!" at the top of the screen. Note that if for some reason your port 8080 is occupied, it will default to 8081.
 
 ## Submission Details
+
+TBD
