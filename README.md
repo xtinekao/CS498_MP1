@@ -63,7 +63,7 @@ Your webpage will have to implement the features listed below. Note that the exa
 
 ## Environment Setup Guide
 1. Clone the repository:
-`git clone https://github.com/uiuc-web-programming/mp1_starter_17.git mp0`, then `cd mp0`
+`git clone https://github.com/uiuc-web-programming/mp1_starter_17.git mp1`, then `cd mp1`
 2. Install dependencies:
 `npm install`
 3. Run the dev server:
