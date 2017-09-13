@@ -26,7 +26,11 @@ Your webpage will have to implement the features listed below. Note that the exa
 6. Carousel: A section with a carousel/slider using a minimum of three slides. It should include the navigation arrows on the side - [Example](https://raw.githubusercontent.com/uiuc-web-programming/fa17/master/labs/MP-1/6.gif?raw=true)
 7. Multi-column layout: A section with Multi-column content - [Example](https://raw.githubusercontent.com/uiuc-web-programming/fa17/master/labs/MP-1/8.png?raw=true)
 8. Centering: Content in each horizontal stripe/section must be horizontally centered. At least one element on the page must be vertically centered. The vertically-centered element should remain centered even if the dimensions of its outer element changes.
-9. Responsiveness: Your webpage should look good when resized.
+9. Responsiveness: Your webpage should look good when resized to the following resolutions:
+  - 1920x1080
+  - 1366x768
+  - 1280x720
+  - 1024x768
 10. Background Image: A section which uses a fixed-position background image - [Example](https://raw.githubusercontent.com/uiuc-web-programming/fa17/master/labs/MP-1/9.gif?raw=true)
 11. Modal: A section which uses modal windows with additional content - [Example](https://raw.githubusercontent.com/uiuc-web-programming/fa17/master/labs/MP-1/10.gif?raw=true)
 12. Video: Embedded video using HTML5 video tag - [Example](https://raw.githubusercontent.com/uiuc-web-programming/fa17/master/labs/MP-1/11_2.gif?raw=true)
