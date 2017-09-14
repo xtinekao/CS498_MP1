@@ -64,6 +64,7 @@ Your webpage will have to implement the features listed below. Note that the exa
 5. No inline script tags should be used.
 6. HTML tables cannot be used for layout.
 7. If you think something you’re doing might not be acceptable, please ask on Piazza.
+8. You must utilize some SCSS features (variables, mixins, etc). A plain CSS file will receive less points.
 
 ## Environment Setup Guide
 1. Clone the repository:
