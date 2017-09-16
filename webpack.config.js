@@ -36,12 +36,12 @@ const config = {
 
             {
                 test: /\.scss$/,
-                loaders: ['style-loader', 'css-loader', 'postcss-loader', 'sass-loader']
+                loaders: ['style-loader', 'css-loader?-url', 'postcss-loader', 'sass-loader']
             },
 
             {
                 test: /\.css$/,
-                loaders: ['style-loader', 'css-loader', 'postcss-loader']
+                loaders: ['style-loader', 'css-loader?-url', 'postcss-loader']
             },
 
             {
