@@ -10,7 +10,9 @@ window.onload = function(){
 	document.getElementById("prev_button").addEventListener("click", prevSlides);
 	document.getElementById("modal_pic_btn").addEventListener("click", displayModal);
 	document.getElementsByClassName("close_modal")[0].addEventListener("click", closeModal);
-	document.getElementbyId("next_button").addEventListener("click", nextSlides);
+	//Never figured out why it refused to add a click event on the next button of my carousel
+	//even though it should work like all the other ones I made.
+	//document.getElementbyId("next_button").addEventListener("click", nextSlides); 
 }
 
 function scrollEvent(){
