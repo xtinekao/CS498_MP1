@@ -26,17 +26,17 @@ function scrollEvent(){
 			document.getElementsByTagName("li")[i].style.fontSize= "15px";
 		}
 
-		if(document.body.scrollTop + 150 >= videosLocation && document.body.scrollTop +150 < aboutLocation){
+		if(document.body.scrollTop + 250 >= videosLocation && document.body.scrollTop +250 < aboutLocation){
 			document.getElementsByTagName("li")[2].style.borderBottom = "3px solid #ccc";
 			document.getElementsByTagName("li")[1].style.borderBottom = "";
 			document.getElementsByTagName("li")[0].style.borderBottom = "";
 		}
-		else if(document.body.scrollTop+150 >= aboutLocation && document.body.scrollTop + 150 < contactLocation){
+		else if(document.body.scrollTop+250 >= aboutLocation && document.body.scrollTop + 250 < contactLocation){
 			document.getElementsByTagName("li")[1].style.borderBottom = "3px solid #ccc";
 			document.getElementsByTagName("li")[0].style.borderBottom = "";
 			document.getElementsByTagName("li")[2].style.borderBottom = "";
 		}
-		else if(document.body.scrollTop + 150 >= contactLocation){
+		else if(document.body.scrollTop + 250 >= contactLocation){
 			document.getElementsByTagName("li")[0].style.borderBottom = "3px solid #ccc";
 			document.getElementsByTagName("li")[1].style.borderBottom = "";
 			document.getElementsByTagName("li")[2].style.borderBottom = "";
